@@ -1,1 +1,1 @@
-# learn-graph-algos
+# learn-ds-algos
